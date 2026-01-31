@@ -26,19 +26,12 @@ Machine Learning, Deep Learning, LLM Integration, Scikit-learn, PyTorch, Hugging
 Mistral 7B Instruct, Resume Parsing with LLMs, WebRTC, Speech-to-Text (Deepgram), Text-to-Speech (ElevenLabs)
 ### 4. Tools & Frameworks
 Docker, Git & Version Control, Entity Framework Core, ADO.NET, RESTful APIs, Tailwind CSS, ShadCN UI<br>
-## Highlighted Experience
-### .NET Developer Intern
-Worked on .NET-based e-commerce and backend systems, focusing on API development, database management, issue resolution, and third-party service integrations, while following clean coding practices.<br>
+
 ## Highlighted Projects
 ### 1. IntelliHire — AI-Powered Hiring Platform
 An AI-driven system designed to automate and facilitate the hiring process.<br>Built a real-time, voice-based interview assistant using LLMs, LangChain, and RAG pipelines. Integrated STT, TTS, and LLM-based question handling to simulate a human-like interviewer and generate structured recruiter reports for unbiased and scalable hiring.
-### 2. Resume Parser — LLM + RAG
-Developed a Resume Parsing system using LangChain to extract structured data from PDF/DOCX files into JSON.<br>Implemented a RAG pipeline with FAISS vector store and Pydantic schema validation to automate accurate information extraction.
-### 3. QueryHub — Real-Time Q&A Platform (.NET)
+### 2. QueryHub — Real-Time Q&A Platform (.NET)
 Built a student-focused Q&A platform using ASP.NET Core and SQL Server.<br>Implemented authentication, role-based access, structured tagging, scoring, and real-time interactions.
-### 4. Activity Recognition using ML & Neural Networks
-Built and evaluated Logistic Regression and MLP models for activity recognition using sensor data.<br>Achieved 94%+ accuracy through feature engineering, performance analysis, and confusion matrix evaluation.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aneeba-waseem-63962a25b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aneeba.waseem145@gmail.com) 
